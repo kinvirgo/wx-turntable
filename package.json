@@ -1,0 +1,15 @@
+{
+  "name": "wx-turntable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kinvirgo/wx-turntable.git",
+  "author": "kinvirgo <1641652086@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node ./build/compiler.js"
+  },
+  "devDependencies": {
+    "rollup": "^3.2.5",
+    "typescript": "^4.8.4"
+  }
+}
